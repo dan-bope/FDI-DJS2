@@ -1,15 +1,7 @@
  <font color='green'>File</font> : BlockTest
 ---
-<font color='green'>Urls and  functions</font>
+<font color='green'>Function</font> : testPostBlockComment
 ---
-
-#### classe : BlockTest
-
-#### function : testPostBlockComment
-
-````
-http://Apireetags-env.eba-nbnp3nhe.eu-west-1.elasticbeanstalk.com/api/1/google_vision/assets
-````
 
 | url                             | functions                | commande                                                           | response                               |
 | :----------------------------   | :----------------------: | :---------------------------------------------------------------:  | ------------------------------------:  |
