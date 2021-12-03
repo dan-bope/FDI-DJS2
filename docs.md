@@ -11,8 +11,7 @@ http://Apireetags-env.eba-nbnp3nhe.eu-west-1.elasticbeanstalk.com/api/1/google_v
 
 | url                   | functions       | commande                                                  |
 | :------------------   | :-------------: | ------------------------------------------------------:   |
-| ````
-  google_vision/assets````  | blockComment    | .\vendor\bin\phpunit .\tests\TokenNotificationsTest.php   |
+| ```` google_vision/assets ````  | blockComment    | .\vendor\bin\phpunit .\tests\TokenNotificationsTest.php   |
 
 
 
